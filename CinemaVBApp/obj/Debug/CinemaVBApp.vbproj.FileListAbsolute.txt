@@ -1,0 +1,24 @@
+C:\Users\gleao\source\repos\CinemaVBApp\CinemaVBApp\bin\Debug\CinemaVBApp.exe.config
+C:\Users\gleao\source\repos\CinemaVBApp\CinemaVBApp\bin\Debug\CinemaVBApp.exe
+C:\Users\gleao\source\repos\CinemaVBApp\CinemaVBApp\bin\Debug\CinemaVBApp.pdb
+C:\Users\gleao\source\repos\CinemaVBApp\CinemaVBApp\bin\Debug\CinemaVBApp.xml
+C:\Users\gleao\source\repos\CinemaVBApp\CinemaVBApp\obj\Debug\CinemaVBApp.vbprojAssemblyReference.cache
+C:\Users\gleao\source\repos\CinemaVBApp\CinemaVBApp\obj\Debug\CinemaVBApp.Form.resources
+C:\Users\gleao\source\repos\CinemaVBApp\CinemaVBApp\obj\Debug\CinemaVBApp.Resources.resources
+C:\Users\gleao\source\repos\CinemaVBApp\CinemaVBApp\obj\Debug\CinemaVBApp.vbproj.GenerateResource.cache
+C:\Users\gleao\source\repos\CinemaVBApp\CinemaVBApp\obj\Debug\CinemaVBApp.vbproj.CoreCompileInputs.cache
+C:\Users\gleao\source\repos\CinemaVBApp\CinemaVBApp\obj\Debug\CinemaVBApp.exe
+C:\Users\gleao\source\repos\CinemaVBApp\CinemaVBApp\obj\Debug\CinemaVBApp.xml
+C:\Users\gleao\source\repos\CinemaVBApp\CinemaVBApp\obj\Debug\CinemaVBApp.pdb
+C:\Users\finnr\OneDrive\NMIT Study\Year 3\Semister 2\SDV502\CinemaVBApp\CinemaVBApp\CinemaVBApp\bin\Debug\CinemaVBApp.exe.config
+C:\Users\finnr\OneDrive\NMIT Study\Year 3\Semister 2\SDV502\CinemaVBApp\CinemaVBApp\CinemaVBApp\bin\Debug\CinemaVBApp.exe
+C:\Users\finnr\OneDrive\NMIT Study\Year 3\Semister 2\SDV502\CinemaVBApp\CinemaVBApp\CinemaVBApp\bin\Debug\CinemaVBApp.pdb
+C:\Users\finnr\OneDrive\NMIT Study\Year 3\Semister 2\SDV502\CinemaVBApp\CinemaVBApp\CinemaVBApp\bin\Debug\CinemaVBApp.xml
+C:\Users\finnr\OneDrive\NMIT Study\Year 3\Semister 2\SDV502\CinemaVBApp\CinemaVBApp\CinemaVBApp\obj\Debug\CinemaVBApp.vbprojAssemblyReference.cache
+C:\Users\finnr\OneDrive\NMIT Study\Year 3\Semister 2\SDV502\CinemaVBApp\CinemaVBApp\CinemaVBApp\obj\Debug\CinemaVBApp.Form.resources
+C:\Users\finnr\OneDrive\NMIT Study\Year 3\Semister 2\SDV502\CinemaVBApp\CinemaVBApp\CinemaVBApp\obj\Debug\CinemaVBApp.Resources.resources
+C:\Users\finnr\OneDrive\NMIT Study\Year 3\Semister 2\SDV502\CinemaVBApp\CinemaVBApp\CinemaVBApp\obj\Debug\CinemaVBApp.vbproj.GenerateResource.cache
+C:\Users\finnr\OneDrive\NMIT Study\Year 3\Semister 2\SDV502\CinemaVBApp\CinemaVBApp\CinemaVBApp\obj\Debug\CinemaVBApp.vbproj.CoreCompileInputs.cache
+C:\Users\finnr\OneDrive\NMIT Study\Year 3\Semister 2\SDV502\CinemaVBApp\CinemaVBApp\CinemaVBApp\obj\Debug\CinemaVBApp.exe
+C:\Users\finnr\OneDrive\NMIT Study\Year 3\Semister 2\SDV502\CinemaVBApp\CinemaVBApp\CinemaVBApp\obj\Debug\CinemaVBApp.xml
+C:\Users\finnr\OneDrive\NMIT Study\Year 3\Semister 2\SDV502\CinemaVBApp\CinemaVBApp\CinemaVBApp\obj\Debug\CinemaVBApp.pdb
